@@ -1,6 +1,6 @@
 # The Digital Mirror: AI and the Evolution of Portraiture
 
-This repositry is the code for Digital Mirror, which is a collaboration between artist Cian McLoughlin and mathematician and neuroscientist John Butler of TU Dublin. Together, they explore the connections between art, machine learning, and neuroscience in the context of facial recognition. 
+This repository is the code for Digital Mirror a collaboration between artist Cian McLoughlin and mathematician and neuroscientist John Butler of TU Dublin. Together, they explore the connections between art, machine learning, and neuroscience in the context of facial recognition. 
  
 Cian has a series of paintings called "Tronies," where he overlays portraits of a single subject to freely explore the diverse spectrum of human appearance (click here to view). This artistic process mirrors the way machine learning is used in facial recognition. Machine learning algorithms start by defining an average face and then subtract it from individual images to identify unique features, known as eigenfaces, which help distinguish between different people.
 
@@ -19,4 +19,8 @@ The images are then processed using Prinicipal Component Analysis to get the Mea
 
 Which can be used to reconstruct an image:
 
-![Cian2_Recon](https://github.com/user-attachments/assets/9a370724-b49d-4dd2-af89-cd9687b453ef)\
+![Cian2_Recon](https://github.com/user-attachments/assets/9a370724-b49d-4dd2-af89-cd9687b453ef)
+
+And how many Eigenfaces are needed to reconstruct and image:
+
+![Variance](https://github.com/user-attachments/assets/262156c2-24dc-4320-b21c-0490b3bb5d38)
