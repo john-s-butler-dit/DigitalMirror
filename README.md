@@ -14,11 +14,9 @@ The code videos a person for 10 seconds as they make different faces.
 ![PHOTO-2024-08-20-18-15-43](https://github.com/user-attachments/assets/5b42515f-82e8-4629-ab13-22d861737440)
 
 
-The faces images are then processed using Prinicipal Component Analysis to get the Eigenfaces.
+The images are then processed using Prinicipal Component Analysis to get the Meanface and Eigenfaces.
 ![Cian2eigenfaces](https://github.com/user-attachments/assets/6dbde16c-6ab7-408e-abf6-18b7c9c0a687)
 
-![Cian2](https://github.com/user-attachments/assets/7acf3ff4-f3e5-4c52-84b1-72305e77d157)
+Which can be used to reconstruct an image:
 
-Which can be used to reconstruct and image:
-
-![Cian2_Recon](https://github.com/user-attachments/assets/9a370724-b49d-4dd2-af89-cd9687b453ef)
+![Cian2_Recon](https://github.com/user-attachments/assets/9a370724-b49d-4dd2-af89-cd9687b453ef)\
